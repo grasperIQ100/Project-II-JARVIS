@@ -4,8 +4,8 @@ College Voice Assistant Project
 # <p align="center"><img src="Images/ReadmeHeader.gif" alt="JARVIS" width="100%"/></a></p>
 
 <p align="center"> 
-  <img src="https://img.shields.io/github/stars/BolisettySujith/J.A.R.V.I.S.svg" alt="BolisettySujith" /> 
-  <img src="https://img.shields.io/github/forks/BolisettySujith/J.A.R.V.I.S.svg" alt="BolisettySujith" /> 
+  <img src="https://img.shields.io/github/stars/BolisettySujith/J.A.R.V.I.S.svg" alt="grasperIQ100" /> 
+  <img src="https://img.shields.io/github/forks/BolisettySujith/J.A.R.V.I.S.svg" alt="grasperIQ100" /> 
 </p>
 
 
